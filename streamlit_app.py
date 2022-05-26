@@ -9,12 +9,12 @@ import streamlit as st
 
 I Hope You Have A Lovely Sleep
 
-In the meantime, please answer the following question to determine how much sperm will be needed:
+In the meantime, please answer the following question to determine how much sperm will be needed, watch the formation of semen happen in real-time:
 """
 
 
 with st.echo(code_location='below'):
-    total_points = st.slider("Number of times you want to have sex", 1, 5000, 2000)
+    total_points = st.slider("Number of semen produced", 1, 5000, 2000)
     num_turns = st.slider("Number of times we should have sex", 1, 100, 9)
 
     Point = namedtuple('Point', 'x y')
