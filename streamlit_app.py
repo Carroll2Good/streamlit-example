@@ -10,10 +10,7 @@ import streamlit as st
 I Hope You Have A Lovely Sleep
 
 In the meantime, please answer the following question to determine how much sperm will be needed, watch the formation of semen happen in real-time:
-"""
-
->>> a = st.sidebar.radio('R:',[1,2])
-
+""
 
 
 
